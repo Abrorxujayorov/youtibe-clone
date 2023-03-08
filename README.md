@@ -1,2 +1,4 @@
-# Ishga Tushirish npm start
+# Ishga Tushirish !
+## npm install
+## npm start
 
